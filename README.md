@@ -19,6 +19,7 @@
 - 前端基于 [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin)；
 - 后端采用 Go + Gin + Gorm；
 - 默认账号：admin 密码：123456，请安装后务必自行修改；
+- 在原作者基础上添加了用户注册 订阅拉取地区限制 邀请码等功能块
 
 # 修改内容
 
